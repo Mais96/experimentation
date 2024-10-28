@@ -1,6 +1,6 @@
 # Ignoring git submodules
 #/base/**/**
-
+/myenv
 # Ignoring files under /conf/local/
 /conf/local/**/**
 !/conf/local/.env
